@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Javier Fernando Chi Ortiz # Nombre completo
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: profile.png # Colocar una imagen con tu foto de 100x100 pixels dentro de /assets/images
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: javierchiortiz@gmail.com
+  phone: +529994875155
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: Javier Fernando Chi Ortiz
+  github: SpidySamurai
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -32,8 +32,14 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    - idiom : Italian
+    level: Novice
+
+    - idiom: Mandarin chinese
+    level: Novice
+
+    # - idiom: German
+    #   level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -43,74 +49,72 @@ sidebar:
     - item: Team Work
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Conflict Resolution
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I'm a Mexican Software Engineering student, I'm a learning enthusiast interested in completing challengin project! Since I started I've learned different technologies
+    and the process in which software is develop, I've worked on personal projects improving my skills. I'm currently learning Ruby with Rails and looking for my first job! 
+
+    I'm also Karate fighter and I apply its philosophy and discipline to strenghthen my software knowledge.Just as technique is the heart of karate, good practice is the heart of good software.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Applied Ruby Web Developer at BrightCoders
+    university: BrightCoders Academy
+    time: 2021 March - current
     details: |
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
+  - degree: Software Engineering
+    university: Universidad Autonoma de Yucatan
+    time: 2017 - 2022
     details: |
-      Unsupervised deep learning for automatic behavior analysis
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+  # - degree: Internship (Master Thesis)
+  #   university: Tobii
+  #   time: 2014 - 2015
+  #   details: |
+  #     Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+  #       - Deep learning
+  #       - Hand Gesture
 
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
+  # - degree: Bachelor Degree
+  #   university: Politecnico di Torino (Torino, Italy)
+  #   time: 2009 - 2012
+  #   details: |
+  #     Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+  # - role: Lead Developer
+  #   time: 2015 - Present
+  #   company: Startup Hubs, San Francisco
+  #   details: |
+  #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #     Cum sociis natoque penatibus et magnis dis parturient montes,
+  #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #     pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+  #     enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+  #     error sit voluptatem accusantium doloremque laudantium, totam rem
+  #     aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+  #     architecto beatae vitae dicta sunt explicabo.
+  #       - Bullet point
+  #       - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+  # - role: Senior Software Engineer
+  #   time: 2014 - 2015
+  #   company: Google, London
+  #   details: |
+  #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+  #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+  #     Cum sociis natoque penatibus et magnis dis parturient montes,
+  #     nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  #     pellentesque eu, pretium quis, sem.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,22 +126,25 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
+    - name: HTML
       level: 100%
 
+    - name: CSS
+      level: 80%
+
+    - name: Git
+      level: 80%
+
+    - name: Ruby
+      level: 200%
+
+    - name: JS
+      level: 40%
+
     - name: C/C++
+      level: 40%
+
+    - name: Java
       level: 40%
 
 # NO MODIFICAR
