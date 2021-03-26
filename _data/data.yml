@@ -33,10 +33,10 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom : Italian
-    level: Novice
+      level: Novice
 
     - idiom: Mandarin chinese
-    level: Novice
+      level: Novice
 
     # - idiom: German
     #   level: Colloquial
